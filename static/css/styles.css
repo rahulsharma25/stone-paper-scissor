@@ -1,0 +1,27 @@
+.bg-container {
+    background-color: #84ceeb;
+    min-height: 100vh;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    height: 90%;
+}
+
+.textBox {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.heading {
+    font-family: "Bree Serif";
+    font-size: 30px;
+    font-weight: bold;
+    color: #5680e9;
+}
+
+.video {
+    width: 90%;
+}
