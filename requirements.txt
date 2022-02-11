@@ -13,8 +13,7 @@ MarkupSafe==2.0.1
 matplotlib==3.5.1
 mediapipe==0.8.9.1
 numpy==1.22.2
-opencv-contrib-python==4.5.5.62
-opencv-python==4.5.5.62
+opencv-contrib-python-headless
 packaging==21.3
 Pillow==9.0.1
 protobuf==3.19.4
